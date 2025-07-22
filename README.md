@@ -1,8 +1,4 @@
-# CLAUDE.md
-
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
-
-## Project Overview
+# Project Overview
 
 This is a Python-based RAG (Retrieval-Augmented Generation) chain project in early development. The project uses:
 - **uv** for dependency management and packaging
